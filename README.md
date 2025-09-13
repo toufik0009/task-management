@@ -6,7 +6,7 @@ A simple Task Manager App built using React Native with User Authentication, Tas
 
 - User Sign-Up / Login (using JWT Authentication)
 - Add, Edit, Delete Tasks
-- Toggle Task Status (Pending / Completed)
+- Toggle Task Status (Pending / In Progress / Completed)
 - Persistent Storage in Database
 - Clean Task List View
 
@@ -30,18 +30,23 @@ Backend API Link:
 | Frontend         | Backend                |
 |------------------|------------------------|
 | React Native     | Node.js + Express      |
-| Axios            | MongoDB (or any DB)    |
-| Expo  Router     | JWT Authentication     |
+| Axios            | MongoDB                |
+| Expo Router      | JWT Authentication     |
 | Expo             | Deployed on Render     |
 
 
 ## 🛠️ Installation
 Frontend (React Native)
 
+Clone this repo:
 ```base
 npm inistall
 ```
- ### Run the App
+Install dependencies:
+```base
+npm inistall
+```
+Start Expo development server:
 ```base
 npm run start
 ```
