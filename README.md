@@ -40,7 +40,7 @@ Frontend (React Native)
 
 Clone this repo:
 ```base
-npm inistall
+git clone https://github.com/toufik0009/task-management.git
 ```
 Install dependencies:
 ```base
