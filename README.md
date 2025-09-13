@@ -1,5 +1,5 @@
 # 📋 Task Manager App
----
+
 A simple Task Manager App built using React Native with User Authentication, Task CRUD operations, and Backend API storage.
 
 ## 🚀 Features
@@ -18,7 +18,7 @@ A simple Task Manager App built using React Native with User Authentication, Tas
 
 
 ## 👉 Demo Video Link
-Watch a quick 2-minute demo of the application:
+### Watch a quick 2-minute demo of the application:
 Demo Video [Task Management App Video](https://drive.google.com/file/d/1ItWchlrs2w8eFK5yyf1cZOpM-V2ThjZL/view?usp=drivesdk)
 
 Backend API Link:
@@ -41,7 +41,8 @@ Frontend (React Native)
 ```base
 npm inistall
 ```
-``base
+ ### Run the App
+```base
 npm run start
 ```
 
